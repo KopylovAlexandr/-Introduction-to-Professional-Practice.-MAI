@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <D:\ВУЗ\VPD\Lab4\app_del_ed.c> // Добавление, удаление и редактирование
+#include <app_del_ed.c> // Добавление, удаление и редактирование
 
 
 #define MAIN_MENU \
